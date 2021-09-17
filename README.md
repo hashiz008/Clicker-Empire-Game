@@ -8,5 +8,5 @@ RecursionCS Project3 最終課題
 ## URL
 https://hashiz008.github.io/Clicker-Empire-Game/
 
-##DEMO
+## DEMO
 https://github.com/hashiz008/Clicker-Empire-Game/issues/2#issue-998998238
