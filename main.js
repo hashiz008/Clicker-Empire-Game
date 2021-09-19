@@ -179,43 +179,54 @@ function mainPage() {
             let numItems = Number(document.querySelectorAll(".item .itemBox")[i].id);
             if (0 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 flipmachine();
             }
             else if (1 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 etfStock()
             } else if (2 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 etfBonds()
             }
             else if (3 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 lemonadeStand()
             }
             else if (4 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 iceCreameTruck()
             }
             else if (5 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 house()
             }
             else if (6 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 twonHouse()
             }
             else if (7 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 mansion()
             } else if (8 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 industrialSpace()
             }
             else if (9 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 hotelSkyscraper()
             } else if (10 == numItems) {
                 document.getElementById("itemPage2").classList.add("d-none");
+                document.getElementById("itemPage2").classList.remove("d-block");
                 railway()
             }
         }
