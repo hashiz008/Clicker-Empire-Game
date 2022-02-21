@@ -5,8 +5,5 @@ RecursionCS Project3 最終課題
 これはRecursionCSの中のProject3の最終課題です。
 このゲームは20歳の若者がハンバーガーを作って資金を得ることでそのお金を株や不動産関連を購入し自分の帝国を築き上げるゲームです。
 
-## URL
-https://hashiz008.github.io/Clicker-Empire-Game/
-
 ## DEM0
 https://user-images.githubusercontent.com/63139730/133735888-221f1669-2cf7-4afa-8b76-5e3501b767a6.mov
