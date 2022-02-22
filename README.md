@@ -16,5 +16,11 @@ https://user-images.githubusercontent.com/63139730/133735888-221f1669-2cf7-4afa-
 ## Reference
 **<a href='https://clicker-empire-game-xi.vercel.app/'>Clicker Empire Gameへようこそ</a>**
 
+## Requirement
+ * HTML
+ * CSS
+ * JavaScript
+ * Bootstrap
+
 ## Author
 **<a href="https://github.com/hashiz008">hashiz008</a>**
