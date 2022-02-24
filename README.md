@@ -2,8 +2,7 @@
 **[RecursionCS](https://recursionist.io) 課題 Project3 Clicker Empire Game**
 
 ## Overview
-** ハンバーガーをクリックしたり、仕事や投資、不動産等でお金を稼ぐ「Clicker Empire Game」
-   というシミュレーションゲームです。
+**ハンバーガーをクリックしたり、仕事や投資、不動産等でお金を稼ぐ「Clicker Empire Game」というシミュレーションゲームです。
 自分の所持金に対しそれぞれ各アイテムの関数内で購入数や残高等の処理を実装しました。自分の所持金に対しハンバーガーをクリックするごとに$ 25増加する実装をしました。
 setIntervalを使用した日付機能と年齢機能の実装をしました。localStorageやJson.stringifyを使用したログイン機能と削除機能の実装をしました。**
 
