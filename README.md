@@ -4,7 +4,7 @@
 ## Overview
 **銀行アプリをモチーフにした簡単なソフトウェア開発アプリ。
 自分の所持金に対しそれぞれ各アイテムの関数内で購入数や残高等の処理を実装しました。自分の所持金に対しハンバーガーをクリックするごとに$ 25増加する実装をしました。
-setIntervalを使用した日付機能と年齢機能の実装。localStorageやJson.stringifyを使用したログイン機能と削除機能の実装。**
+setIntervalを使用した日付機能と年齢機能の実装をしました。localStorageやJson.stringifyを使用したログイン機能と削除機能の実装をしました。**
 
 ## Demo 
 https://user-images.githubusercontent.com/63139730/133735888-221f1669-2cf7-4afa-8b76-5e3501b767a6.mov
